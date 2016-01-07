@@ -1,6 +1,3 @@
-##-----------------------------------------------------------------------
-## <copyright file="ApplyFileVersionToAssemblies.ps1">(c) Microsoft Corporation. This source is subject to the Microsoft Permissive License. See http://www.microsoft.com/resources/sharedsource/licensingbasics/sharedsourcelicenses.mspx. All other rights reserved.</copyright>
-##-----------------------------------------------------------------------
 # Look for a 0.0.0.0 pattern in the build number. 
 # If found use it to version the assemblies.
 #
